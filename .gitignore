@@ -1,5 +1,9 @@
+# macos, should be ignored system wide!
 .DS_Store
-.envrc # is created when running ./start
+
+# .envrc is created when running ./start
+.envrc
+
 .idea
 tmp
 result
